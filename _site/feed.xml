@@ -5,29 +5,27 @@
     <description>Over the past 2 years, I’ve been designing apps for various startups and businesses from around the globe. I would like to share with you what I’ve learned during the time and help you improve your products and the process behind creating them.</description>
     <link>0.0.0.0:4000/</link>
     <atom:link href="0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 15 Jan 2015 17:04:38 +0100</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2015 17:04:38 +0100</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2015 17:13:13 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2015 17:13:13 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
         <title>Driving better</title>
-        <description>&lt;p&gt;One would be surprised how much time we spend driving our car. What seems like a short one-hour daily commute means 10 days in a car per year and that’s some time.  &lt;/p&gt;
-
-&lt;h2 id=&quot;get-there-safely&quot;&gt;Get there safely&lt;/h2&gt;
-&lt;p&gt;Although we tend to forget it, the most important thing on driving is to get to our destination safely. Therefore there are tons of advanced driver assistance systems in new cars. However, you don’t have to throw in the towel, if you don’t have them in your car. 
+        <description>&lt;h2 id=&quot;get-there-safely&quot;&gt;Get there safely&lt;/h2&gt;
+&lt;p&gt;Although we tend to forget it, the most important thing on driving is to get to our destination safely. Therefore there are tons of advanced driver assistance systems in new cars. However, you don’t have to throw in the towel, if you don’t have them in your car.
 What you need is an app called &lt;a href=&quot;http://geni.us/2hMA&quot;&gt;iOnRoad&lt;/a&gt; ($4.99). It helps with two big causes of car accidents - not keeping a safe distance and out of lane wandering. You only need to mount your iPhone on the dashboard and the app does the rest. It will warn you every time you get too close to the car in front of you or whenever your car starts to leave the lane. It might seem unnecessary for a daily commute, but the contrary is the case. We know every inch of the route and we could drive with your eyes closed, so we pay less and less attention to the situation around us. This is the moment when iOnRoad is a big help and a potential life saver.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/img/cw3-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/cw3-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;drive-where-you-need-to&quot;&gt;Drive where you need to&lt;/h2&gt;
 &lt;p&gt;Getting safely to our destination isn’t the only concern we have while driving. We usually want to get there as soon as possible. There are navigation apps to help us with that. I have tested all offline navigations in the app store and also Google and Apple Maps. Some of them were good, some of them worse. Right now I am driving with Sygic (&lt;a href=&quot;http://geni.us/48zT&quot;&gt;Europe&lt;/a&gt;, $49.99| &lt;a href=&quot;http://geni.us/FEb&quot;&gt;North America&lt;/a&gt;, $39.99) and I find it the best so far. It has all the functions you would expect from a navigation app including very good live traffic based on TomTom data and very accurate ETA. On top you can buy a blackbox feature which records and saves video when an accident happens or additional celebrity voices. Mr. Burns from The Simpsons is a funny co-pilot! Over the time I got used to use Sygic also during my daily commute to help me avoid heavy traffic.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/img/cw3-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/cw3-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;find-a-parking-space&quot;&gt;Find a parking space&lt;/h2&gt;
 &lt;p&gt;The biggest challenge sometimes starts when you get to your destination and you need to find an available parking space. To help me with that I have been using &lt;a href=&quot;http://geni.us/11ZO&quot;&gt;Parkopedia&lt;/a&gt; (free) for a while and I am completely satisfied with it. Obviously, it cannot help you a parking space on the street but it covers the a vast number of parking lots and lots of them have also real-time availability info.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/img/cw3-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/cw3-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 13 Jan 2015 00:00:00 +0100</pubDate>
         <link>0.0.0.0:4000/posts/2015-01-13-cw3.md</link>
@@ -45,11 +43,11 @@ What you need is an app called &lt;a href=&quot;http://geni.us/2hMA&quot;&gt;iOn
 
 &lt;p&gt;There is a big amount of weather apps in the App Store and they all give you the basic information. However, if you want a bit more than these simple functions (and you should), go for &lt;a href=&quot;http://geni.us/37V3&quot;&gt;WeatherPro&lt;/a&gt; ($2.99). Its predictions are accurate and detailed including weather maps with precipitations, cloud coverage, air pressure and temperature. It can help you to select the resort with the best weather. I’ve been using it for years when planning my skiing trips and it hasn’t ever let me down. &lt;/p&gt;
 
-&lt;div class=&quot;wide&quot;&gt;&lt;img src=&quot;/assets/img/cw2-1.jpg&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/cw2-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We all know that the weather can change any minute in the mountains. Especially if you are in a larger resort it can take you easily an hour to get to your car.  To avoid encountering bad weather while on the summit I regularly use &lt;a href=&quot;http://geni.us/3McH&quot;&gt;MeteoEarth&lt;/a&gt; ($2.99). It shows current status and future development of all necessary weather values in a nice layout. It only takes a while to check it while going uphill on a chair-lift. This few seconds helped me plenty of times to get back down just before a snowstorm hit the hill.&lt;/p&gt;
 
-&lt;div class=&quot;wide&quot;&gt;&lt;img src=&quot;/assets/img/cw2-2.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/cw2-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;locate-your-friends&quot;&gt;Locate your friends&lt;/h2&gt;
 &lt;p&gt;If you go skiing with your friends, you can be pretty sure that at one time, your group will split. Someone needs a cigarette break, another one needs to use the restrooms and other want to grab some food in the restaurant. For that reason I am using Apple’s &lt;a href=&quot;http://geni.us/19yS&quot;&gt;Find My Friends&lt;/a&gt; (free) every time I’m going with someone else. You can easily locate the group when you fall behind or your friends can find you if something happens.&lt;/p&gt;
@@ -58,12 +56,12 @@ What you need is an app called &lt;a href=&quot;http://geni.us/2hMA&quot;&gt;iOn
 &lt;p&gt;When I was younger, in the years before iPhone and apps, I always spent the evening after skiing checking the non-interactive paper panorama maps to see where I had skied. It was a good relaxation after a hard day on the slopes. Nowadays it’s much more easier to track your skiing, you just need an iPhone, an app and full battery.
 I have tried couple of various apps and my recent favorite is &lt;a href=&quot;http://geni.us/1XOB&quot;&gt;Slopes&lt;/a&gt; ($4.99). It’s a pretty straightforward app that can be used also for backcountry skiing and it provides incomparably more information than the paper panorama map I was used to. For every run you get your top and average speed, vertical drop, distance and total time. You can also watch your performance on a very nice today widget. Slopes also calculate your burned calories and export them to the Health App. At the end of the day, it shows you a summary of your day with total distance, total time and highlights such as tallest or longest run. It’s fun to sit with your friends in the evening with a cup of tea, compare your results and performance.&lt;/p&gt;
 
-&lt;div class=&quot;wide&quot;&gt;&lt;img src=&quot;/assets/img/cw2-3.jpg&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/cw2-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;dont-get-bored&quot;&gt;Don’t get bored&lt;/h2&gt;
 &lt;p&gt;Skiing alone has one big disadvantage - one can easily get bored while going uphill if you are not this kind of sociopathic chatty person. To get over the boredom I am now using &lt;a href=&quot;http://geni.us/3IdN&quot;&gt;PeakFinder&lt;/a&gt; ($3.99). I’ve been always looking around on the chair-lift guessing which mountain is which. With &lt;a href=&quot;http://geni.us/3IdN&quot;&gt;PeakFinder&lt;/a&gt; I don’t have to guess anymore, because it tells me their names and elevation. Next time you go there with your friends you can impress them with your knowledge.&lt;/p&gt;
 
-&lt;div class=&quot;wide&quot;&gt;&lt;img src=&quot;/assets/img/cw2-4.jpg&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/cw2-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Jan 2015 00:00:00 +0100</pubDate>
         <link>0.0.0.0:4000/posts/2015-01-06-cw2.md</link>
