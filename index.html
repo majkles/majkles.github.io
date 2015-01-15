@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<section class="stories">
+    {% for post in site.posts %}
+        <header class="story">
+            <span class="date">{{ post.date | date_to_long_string }}</span>
+            <h2 class="heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            <p class="perex">{{ post.perex }}</p>
+            <a class="more" href="">Read more &rsaquo;</a>
+        </header>
+    {% endfor %}
+</section>

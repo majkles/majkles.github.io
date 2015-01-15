@@ -1,0 +1,51 @@
+@import "mixins.less";
+@import "setup.less";
+
+// RESET
+///////////////////////////////////////////////
+
+*, *:before, *:after {box-sizing: border-box;}
+
+html,
+body,
+div,
+section,
+header,
+blockquote,
+footer,
+code,
+h1, h2, h3, h4, h5, h6,
+span,
+p,
+nav,
+ul,
+li {
+  padding: 0;
+  margin: 0;
+}
+
+// GLOBAL DEFS
+///////////////////////////////////////////////
+
+html {
+    width: 100%;
+    height: 100%;
+
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    width : 100%;
+
+    //padding-top: @spacingBig;
+
+    color: @black;
+    font-family : @font;
+    font-size : @fontSize;
+}
+
+@import "fonts.less";
+@import "layout.less";
+@import "nav.less";
+@import "article.less";
+@import "footer.less";

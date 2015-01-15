@@ -1,0 +1,57 @@
+@import "mixins.less";
+@import "setup.less";
+
+// Font Settings
+///////////////////////////////////////////////
+
+.label {
+    //.debug();
+    &:extend(.center);
+    display: block;
+}
+
+// Typo
+///////////////////////////////////////////////
+
+.typo-headline {
+    .font-size(2);
+    line-height: 2.6rem;
+}
+
+.typo-subline {
+    .font-size(1.2);
+    line-height: 2rem;
+}
+
+.typo-paragraph {
+    .font-size(0.9);
+    line-height: 1.8rem;
+}
+
+.typo-subtext {
+    .font-size(0.8);
+    line-height: 1.4rem;
+}
+
+// Font styles
+///////////////////////////////////////////////
+
+.headline {
+    &:extend(.label);
+    &:extend(.typo-headline);
+}
+
+.subline {
+    &:extend(.label);
+    &:extend(.typo-subline);
+}
+
+.paragraph {
+    &:extend(.label);
+    &:extend(.typo-paragraph);
+}
+
+.subtext {
+    &:extend(.label);
+    &:extend(.typo-subtext);
+}

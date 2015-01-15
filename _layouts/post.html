@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article class="story">
+
+    <header class="title">
+        <span class="subtext date">{{ page.date | date_to_long_string }}</span>
+        <h1 class="headline"><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a></h1>
+        <p class="subline">{{ page.perex }}</p>
+    </header>
+
+    {{ content }}
+
+    <ul class="related"><li>
+            <span class="subtext date">RELATED POSTS</span>
+        </li>
+        {% for rel in site.related_posts limit:3 %}
+        <li>
+            <span class="subtext date">{{ rel.date | date_to_long_string }}</span>
+            <h2 class="paragraph"><a href="{{ rel.url }}">{{ rel.title }}</a></h2>
+            <p class="paragraph">{{ rel.perex | truncatewords:45 }}</p>
+
+        </li>
+        {% endfor %}
+    </ul>
+
+</article>

@@ -1,0 +1,133 @@
+@import "mixins.less";
+@import "setup.less";
+
+// Footer
+///////////////////////////////////////////////
+
+footer {
+    .center();
+    padding-top: @spacingBig;
+}
+
+.newsletter {
+    .align-center();
+    width: @width / 3;
+    margin-bottom: @spacingBig;
+    text-align: center;
+}
+
+.newsletter-email {
+    &:extend(.typo-subline);
+
+    display: block;
+    width: 100%;
+    height: 3rem;
+
+    padding-left: @spacingSmall;
+    margin-bottom: @spacingSmall;
+
+    border: 1px solid @gray;
+
+    &:focus {
+        color: @black;
+        outline: none;
+    }
+
+}
+
+.newsletter-submit {
+    &:extend(.typo-subline);
+
+    display: block;
+    width: 100%;
+    height: 3rem;
+
+    padding-left: @spacingSmall;
+
+    color: @white;
+    background-color: #3DC255;
+    border: none;
+    //text-align: left;
+
+}
+
+.social-map {
+
+  @count: 3;
+  @size: 2;
+
+  .align-center();
+  .clear-fix();
+
+  margin-bottom: @spacingBig;
+
+  width: unit(((@count * @size) + ((@count - 1) * @size) + 0.1), rem);
+  height: unit(@size, rem);
+
+  list-style-type: none;
+
+  li {
+    float: left;
+    display: inline-block;
+
+    height:100%;
+    width: unit(@size, rem);
+
+    margin-right: @spacingSmall * @size;
+
+    &:last-child {
+        margin-right: 0;
+    }
+  }
+}
+
+.social-item {
+    &:extend(.link-block);
+
+    .hide-text();
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.about {
+    &:extend(.typo-paragraph);
+
+    .center-small();
+
+    color: @gray;
+    margin-bottom: @spacingBig;
+
+    text-align: center;
+}
+
+.copyright {
+    &:extend(.typo-subtext);
+
+    display: block;
+    width: 100%;
+    color: @gray;
+    text-transform: uppercase;
+    text-align: center;
+
+    a {
+        color: @gray;
+        text-decoration: none;
+    }
+}
+
+// Social
+///////////////////////////////////////////////
+
+.facebook {
+  background-image: url('../svg/icn-facebook.svg');
+}
+
+.rss {
+  background-image: url('../svg/icn-rss.svg');
+}
+
+.twitter {
+  background-image: url('../svg/icn-twitter.svg');
+}

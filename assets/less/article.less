@@ -1,0 +1,58 @@
+@import "mixins.less";
+@import "setup.less";
+
+.link-red {
+    color: @accent;
+    text-decoration: none;
+    border-bottom: 1px solid @accent;
+}
+
+.stories {
+    //.debug();
+    .center-small();
+
+    //padding-top: @spacing;
+    padding-bottom: @spacing;
+}
+
+.story {
+    //.debug();
+
+    padding-top: @spacing;
+    padding-bottom: @spacing;
+
+    border-bottom: 1px solid @accent;
+
+    text-align: center;
+
+
+    &:last-of-type {
+        //margin-bottom: 0;
+    }
+}
+
+.date {
+    &:extend(.typo-subtext);
+    text-transform: uppercase;
+    color: @gray;
+}
+
+.heading {
+    &:extend(.typo-headline);
+    margin-bottom: @spacingSmall;
+
+    a {
+        color: @accent;
+        text-decoration: none;
+    }
+}
+
+.perex {
+    &:extend(.typo-paragraph);
+    margin-bottom: @spacingSmall;
+}
+
+.more {
+    &:extend(.typo-paragraph);
+    &:extend(.link-red);
+}
