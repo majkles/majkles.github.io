@@ -6,8 +6,6 @@ permalink: posts/pragma-barcamp
 hero: img/pragma.png
 source: Pragma Conference
 perex: Short article about some random stuff.
-tags:
-- test
 ---
 
 Second weekend in October was very busy with two juicy conferences taking place on Saturday. My two colleagues from Tapmates and me went to Italy to attend [Pragma Mark Conference](http://pragmamark.org/events/pragma-conference-2014/) while two other Tapmates members were in Hradec Králové on [Barcamp](http://www.barcamphk.cz/).
