@@ -15,5 +15,5 @@ class Image < Liquid::Tag
     %(<div class="wide"><img src="#{ @path }"/></div>)
   end
 
-  Liquid::Template.register_tag("test", self)
+  Liquid::Template.register_tag("img", self)
 end
