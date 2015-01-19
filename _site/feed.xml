@@ -3,11 +3,11 @@
   <channel>
     <title>1 per Week</title>
     <description>Once a week we publish articles that help you make your life easier using iOS and Mac apps in various situations.</description>
-    <link>0.0.0.0:4000/</link>
-    <atom:link href="0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 19 Jan 2015 15:52:55 +0100</pubDate>
-    <lastBuildDate>Mon, 19 Jan 2015 15:52:55 +0100</lastBuildDate>
-    <generator>Jekyll v2.5.1</generator>
+    <link>http://1perweek.com/</link>
+    <atom:link href="http://1perweek.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 19 Jan 2015 17:08:54 +0100</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2015 17:08:54 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>iPhone is your DSLR</title>
@@ -27,8 +27,8 @@
 &lt;p&gt;&lt;img src=&quot;/assets/img/cw4/cw4-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Jan 2015 00:00:00 +0100</pubDate>
-        <link>0.0.0.0:4000/posts/2015-01-20-cw4.md</link>
-        <guid isPermaLink="true">0.0.0.0:4000/posts/2015-01-20-cw4.md</guid>
+        <link>http://1perweek.com/posts/4-2015</link>
+        <guid isPermaLink="true">http://1perweek.com/posts/4-2015</guid>
         
         
       </item>
@@ -52,8 +52,8 @@ What you need is an app called &lt;a href=&quot;http://geni.us/2hMA&quot;&gt;iOn
 &lt;p&gt;&lt;img src=&quot;/assets/img/cw3/cw3-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 13 Jan 2015 00:00:00 +0100</pubDate>
-        <link>0.0.0.0:4000/posts/2015-01-13-cw3.md</link>
-        <guid isPermaLink="true">0.0.0.0:4000/posts/2015-01-13-cw3.md</guid>
+        <link>http://1perweek.com/posts/3-2015</link>
+        <guid isPermaLink="true">http://1perweek.com/posts/3-2015</guid>
         
         
       </item>
@@ -75,7 +75,7 @@ What you need is an app called &lt;a href=&quot;http://geni.us/2hMA&quot;&gt;iOn
 &lt;p&gt;If you go skiing with your friends, you can be pretty sure that at one time, your group will split. Someone needs a cigarette break, another one needs to use the restrooms and other want to grab some food in the restaurant. For that reason I am using Apple’s &lt;a href=&quot;http://geni.us/19yS&quot;&gt;Find My Friends&lt;/a&gt; (free) every time I’m going with someone else. You can easily locate the group when you fall behind or your friends can find you if something happens.&lt;/p&gt;
 
 &lt;h2 id=&quot;track-your-performance&quot;&gt;Track your performance&lt;/h2&gt;
-&lt;p&gt;When I was younger, in the years before iPhone and apps, I always spent the evening after skiing checking the non-interactive paper panorama maps to see where I had skied. It was a good relaxation after a hard day on the slopes. Nowadays it’s much more easier to track your skiing, you just need an iPhone, an app and full battery.
+&lt;p&gt;When I was younger, in the years before iPhone and apps, I always spent the evening after skiing checking the non-interactive paper panorama maps to see where I had skied. It was a good relaxation after a hard day on the slopes. Nowadays it’s much more easier to track your skiing, you just need an iPhone, an app and full battery. 
 I have tried couple of various apps and my recent favorite is &lt;a href=&quot;http://geni.us/1XOB&quot;&gt;Slopes&lt;/a&gt; ($4.99). It’s a pretty straightforward app that can be used also for backcountry skiing and it provides incomparably more information than the paper panorama map I was used to. For every run you get your top and average speed, vertical drop, distance and total time. You can also watch your performance on a very nice today widget. Slopes also calculate your burned calories and export them to the Health App. At the end of the day, it shows you a summary of your day with total distance, total time and highlights such as tallest or longest run. It’s fun to sit with your friends in the evening with a cup of tea, compare your results and performance.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/cw2/cw2-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -86,8 +86,8 @@ I have tried couple of various apps and my recent favorite is &lt;a href=&quot;
 &lt;p&gt;&lt;img src=&quot;/assets/img/cw2/cw2-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Jan 2015 00:00:00 +0100</pubDate>
-        <link>0.0.0.0:4000/posts/2015-01-06-cw2.md</link>
-        <guid isPermaLink="true">0.0.0.0:4000/posts/2015-01-06-cw2.md</guid>
+        <link>http://1perweek.com/posts/2-2015</link>
+        <guid isPermaLink="true">http://1perweek.com/posts/2-2015</guid>
         
         
       </item>
