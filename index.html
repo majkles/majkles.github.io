@@ -4,6 +4,7 @@ layout: default
 <section class="stories">
     {% for post in site.posts %}
         <header class="story">
+            <a href="{{ site.baseurl }}{{ post.url }}"><img class="wide" src="{{ post.hero }}"></a>
             <span class="date">{{ post.date | date_to_long_string }}</span>
             <h2 class="heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <p class="perex-index">{{ post.perex }}</p>
