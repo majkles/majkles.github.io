@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rojcyk</title>
-    <description>Over the past 2 years, I’ve been designing apps for various startups and businesses from around the globe. I would like to share with you what I’ve learned during the time and help you improve your products and the process behind creating them.</description>
+    <title>1 per Week</title>
+    <description>Once a week we publish articles that help you make your life easier using iOS and Mac apps in various situations.</description>
     <link>0.0.0.0:4000/</link>
     <atom:link href="0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 19 Jan 2015 14:50:17 +0100</pubDate>
-    <lastBuildDate>Mon, 19 Jan 2015 14:50:17 +0100</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2015 15:52:55 +0100</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2015 15:52:55 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -75,7 +75,7 @@ What you need is an app called &lt;a href=&quot;http://geni.us/2hMA&quot;&gt;iOn
 &lt;p&gt;If you go skiing with your friends, you can be pretty sure that at one time, your group will split. Someone needs a cigarette break, another one needs to use the restrooms and other want to grab some food in the restaurant. For that reason I am using Apple’s &lt;a href=&quot;http://geni.us/19yS&quot;&gt;Find My Friends&lt;/a&gt; (free) every time I’m going with someone else. You can easily locate the group when you fall behind or your friends can find you if something happens.&lt;/p&gt;
 
 &lt;h2 id=&quot;track-your-performance&quot;&gt;Track your performance&lt;/h2&gt;
-&lt;p&gt;When I was younger, in the years before iPhone and apps, I always spent the evening after skiing checking the non-interactive paper panorama maps to see where I had skied. It was a good relaxation after a hard day on the slopes. Nowadays it’s much more easier to track your skiing, you just need an iPhone, an app and full battery. 
+&lt;p&gt;When I was younger, in the years before iPhone and apps, I always spent the evening after skiing checking the non-interactive paper panorama maps to see where I had skied. It was a good relaxation after a hard day on the slopes. Nowadays it’s much more easier to track your skiing, you just need an iPhone, an app and full battery.
 I have tried couple of various apps and my recent favorite is &lt;a href=&quot;http://geni.us/1XOB&quot;&gt;Slopes&lt;/a&gt; ($4.99). It’s a pretty straightforward app that can be used also for backcountry skiing and it provides incomparably more information than the paper panorama map I was used to. For every run you get your top and average speed, vertical drop, distance and total time. You can also watch your performance on a very nice today widget. Slopes also calculate your burned calories and export them to the Health App. At the end of the day, it shows you a summary of your day with total distance, total time and highlights such as tallest or longest run. It’s fun to sit with your friends in the evening with a cup of tea, compare your results and performance.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/cw2/cw2-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
